@@ -12,7 +12,7 @@ public class Main {
 		
 		for (int i = 0; i < t; i++) {
 			String s = br.readLine();
-			String[] sarr = s.split(" ");
+			String[] sarr = s.split("   ");
 			int x1 = Integer.parseInt(sarr[0]);
 			int y1 = Integer.parseInt(sarr[1]);
 			int r1 = Integer.parseInt(sarr[2]);
