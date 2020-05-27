@@ -4,4 +4,4 @@
 
 자유롭게 pull request하시면 됩니다.
 
-궁금한 점이 있으면 issue, discussion, slack을 통해 물어 볼 수 있습니다.
+궁금한 점이 있으면 issue, discussion, [slack](https://uhs-corp.slack.com/)을 통해 물어 볼 수 있습니다.
